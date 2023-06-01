@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - [Hello World!]:https://github.com/sabdulwahid/LABURL)
-- [gcd factoring]:https://github.com/sabdulwahid/LABURL)
+- [Remainder Project]:https://github.com/sabdulwahid2023/C-Remainder-Project.git)
   
   
 <h2> 🤳 Connect with me:</h2>
